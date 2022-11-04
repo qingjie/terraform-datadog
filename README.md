@@ -50,3 +50,15 @@ If you make any changes to the dashboard, they will disappear when the dashboard
 ### Conclusion
 
 Terraform's local-exec Provisioner allows you to run commands on the provisioning host, opening up all of Datadog's API capabilities.
+
+References:
+
+* https://registry.terraform.io/providers/DataDog/datadog/latest/docs
+
+* https://developer.hashicorp.com/terraform/language/resources/provisioners/local-exec
+
+* https://docs.datadoghq.com/developers/community/libraries/
+
+* https://docs.datadoghq.com/api/latest/using-the-api/
+
+* https://docs.datadoghq.com/dashboards/widgets/
